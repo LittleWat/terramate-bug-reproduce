@@ -3,5 +3,5 @@ terraform {
 }
 
 inputs = {
-  test = "a"
+  test = "b"
 }
