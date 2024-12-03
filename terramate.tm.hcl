@@ -11,11 +11,12 @@ terramate {
       "git-uncommitted",
     ]
     change_detection {
-      git {
-        # Git configuration
-        default_remote = "origin"
-        default_branch = "main"
-      }
+      git {}
+    }
+    git {
+      # Git configuration
+      default_remote = "origin"
+      default_branch = "main"
     }
   }
 }
