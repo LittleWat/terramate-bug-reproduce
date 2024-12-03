@@ -12,6 +12,9 @@ terramate {
     ]
     change_detection {
       git {
+        # Git configuration
+        default_remote = "origin"
+        default_branch = "main"
       }
     }
   }
