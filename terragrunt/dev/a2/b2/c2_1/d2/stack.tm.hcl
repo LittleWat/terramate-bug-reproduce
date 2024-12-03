@@ -1,6 +1,7 @@
 stack {
   name        = "d2"
   description = "d2"
-  after       = ["/a1/b1"]
-  id          = "6a635a94-72f8-4f17-b28a-d6567022841b"
+  tags        = ["dev"]
+  after       = ["/terragrunt/dev/a1/b1"]
+  id          = "da77adc4-3c8f-4fae-b21e-f5057fcb00cf"
 }

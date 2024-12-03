@@ -1,5 +1,6 @@
 stack {
   name        = "b1"
   description = "b1"
-  id          = "61be0ee5-53ac-4538-8275-c7e4f89381aa"
+  tags        = ["dev"]
+  id          = "61357ecf-3151-4f71-99aa-e444da58d285"
 }
